@@ -1,0 +1,14 @@
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Local environment and generated dependencies
+.env
+.env.*
+vendor/
+node_modules/
+
+# Debug logs
+*.log

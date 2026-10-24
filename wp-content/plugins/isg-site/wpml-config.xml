@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wpml-config>
+  <custom-types>
+    <custom-type translate="1">isg_solution</custom-type>
+    <custom-type translate="1">isg_service</custom-type>
+    <custom-type translate="1">isg_vacancy</custom-type>
+    <custom-type translate="1">isg_partner</custom-type>
+  </custom-types>
+  <taxonomies>
+    <taxonomy translate="1">isg_solution_group</taxonomy>
+    <taxonomy translate="1">isg_service_group</taxonomy>
+  </taxonomies>
+  <custom-fields>
+    <custom-field action="translate">isg_subtitle</custom-field>
+    <custom-field action="translate">isg_cta_label</custom-field>
+    <custom-field action="translate">isg_price_note</custom-field>
+    <custom-field action="translate">isg_vacancy_location</custom-field>
+    <custom-field action="translate">isg_vacancy_salary</custom-field>
+    <custom-field action="translate">isg_case_client</custom-field>
+    <custom-field action="copy">isg_case_year</custom-field>
+    <custom-field action="copy">isg_demo_content</custom-field>
+    <custom-field action="translate">isg_demo_note</custom-field>
+    <custom-field action="copy">isg_cta_url</custom-field>
+    <custom-field action="copy">isg_demo_url</custom-field>
+  </custom-fields>
+  <admin-texts>
+    <key name="isg_home_eyebrow"/>
+    <key name="isg_home_hero_title"/>
+    <key name="isg_home_hero_lead"/>
+    <key name="isg_home_hero_cta"/>
+    <key name="isg_home_intro"/>
+    <key name="isg_home_cta_label"/>
+    <key name="isg_footer_motto"/>
+    <key name="isg_footer_copyright"/>
+  </admin-texts>
+</wpml-config>
